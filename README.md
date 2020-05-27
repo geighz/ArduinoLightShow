@@ -1,3 +1,3 @@
 # ArduinoLightShow
-Creation of musical reactive lights using arduino. Begin in late may.
+Creation of musical reactive lights using Falcon controller. Begin in late may. 
 
